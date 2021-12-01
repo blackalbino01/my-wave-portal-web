@@ -20,7 +20,7 @@ const App = () => {
   /**
    * Create a variable here that holds the contract address after you deploy!
    */
-  const contractAddress = "0xCD9642bB8745E9836a649c2D83b04593a67d2604";
+  const contractAddress = "0xf172522b041Cdc760D7B0DB6b9C40a79A8ab6272";
 
   const [isLoading, setLoading] = useState(false);
 
